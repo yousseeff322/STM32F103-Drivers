@@ -68,6 +68,6 @@ To compile and use the drivers in this project, you will need:
 
 For any inquiries or questions, feel free to reach out to me at:
 
-- **Email:** [your-email@example.com](yousseeff322@gmail.com)
-- **LinkedIn:** [Your LinkedIn Profile]([https://www.linkedin.com/in/your-linkedin-profile/](https://www.linkedin.com/in/youssef-hamed-/))
+- **Email:** [yousseeff322@gmail.com](yousseeff322@gmail.com)
+- **LinkedIn:** [Youssef-Hamed](https://www.linkedin.com/in/youssef-hamed-/)
 
