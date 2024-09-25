@@ -56,3 +56,18 @@ To compile and use the drivers in this project, you will need:
 1. Clone the repository:
    ```bash
    git clone https://github.com/YOUR_USERNAME/STM32F103-Drivers.git
+   Open the project in your preferred STM32 development environment.
+
+2. Link the necessary folders (MCAL, HAL, LIB) to your project structure.
+
+3. Configure your project clock settings using the RCC driver.
+
+4. Include the required drivers in your source files for peripheral or hardware control.
+   
+## Contact
+
+For any inquiries or questions, feel free to reach out to me at:
+
+- **Email:** [your-email@example.com](yousseeff322@gmail.com)
+- **LinkedIn:** [Your LinkedIn Profile]([https://www.linkedin.com/in/your-linkedin-profile/](https://www.linkedin.com/in/youssef-hamed-/))
+
