@@ -52,7 +52,6 @@ This repository contains drivers and modules for the STM32F103 microcontroller, 
   - `DMA_Test`  - Test your DMA
   - `STP`   - Serial To Parallel Communication
   - `LEDMAX` - dispaly any thing on LED MATRIX and can move it
-  - ``LED_IOT`` - CONTRL LED USEING WEBSITE 
   - `oter...` 
 
 ## Getting Started
