@@ -41,6 +41,20 @@ This repository contains drivers and modules for the STM32F103 microcontroller, 
   - `STD_type` - Standard type definitions
   - `STRING_COMPARE` - String comparison utility functions
 
+- **APP**  
+  This folder contains example projects demonstrating how to use the drivers. Each example can be directly copied into your project's `main` function.
+  
+  - `LED_Blink` - Simple example to blink an LED using the DIO driver.
+  - `USART_Communication` - Basic UART communication example.
+  - `Ultrasonic_Sensor` - Measure distance using the ultrasonic sensor.
+  - `TFT_Display` - Displaying text on a TFT LCD using the driver.
+  - `IR_System` - Control Your System Using Remote Control
+  - `DMA_Test`  - Test your DMA
+  - `STP`   - Serial To Parallel Communication
+  - `LEDMAX` - dispaly any thing on LED MATRIX and can move it
+  - ``LED_IOT`` - CONTRL LED USEING WEBSITE 
+  - `oter...` 
+
 ## Getting Started
 
 ### Prerequisites
@@ -63,6 +77,9 @@ To compile and use the drivers in this project, you will need:
 3. Configure your project clock settings using the RCC driver.
 
 4. Include the required drivers in your source files for peripheral or hardware control.
+5. Open the example folder you want to try (e.g., APP/LED_Blink).
+6. Copy the provided code inside main.c into your project's main function.
+7. Build and flash your project to the STM32F103.
    
 ## Contact
 
